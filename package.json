@@ -1,0 +1,27 @@
+{
+  "name": "node-redis-proxy",
+  "version": "0.0.1",
+  "description": "A thin wrapper on node-http-proxy to allow for dynamic subdomain routing backed by a redis store.",
+  "main": "index.js",
+  "bin": {
+    "node-redis-proxy": "bin/node-redis-proxy"
+  }, 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "node",
+    "redis",
+    "proxy",
+    "node-http-proxy",
+    "dynamic",
+    "reverse"
+  ],
+  "author": {
+    "name": "Jonathan Dinu",
+    "email": "jondinu@gmail.com",
+    "url": "http://jdinu.com"
+    },
+  "license": "MIT"
+}
